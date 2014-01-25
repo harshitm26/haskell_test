@@ -1,4 +1,4 @@
 haskell_test
 ============
 
-Testing haskell build with Tavis CL
+Testing haskell build with Travis CL
